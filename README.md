@@ -1,2 +1,2 @@
 # segmentation-fault
-This is for testing compiler
+Make the program segmentation fault
